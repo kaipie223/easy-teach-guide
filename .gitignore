@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+*.egg
+
+# 环境变量（包含 API Key，绝对不能提交）
+.env
+
+# 数据库
+*.db
+*.sqlite3
+
+# 上传文件
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# 生成课件
+output/*
+!output/.gitkeep
+
+# ChromaDB 向量库（体积大，可重建）
+chroma_data/
+
+# 视频帧提取
+frames/
+
+# Node
+node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+access.log
+
+# 临时文件
+temp/
+tmp/
+*.tmp
