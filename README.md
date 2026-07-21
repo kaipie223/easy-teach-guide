@@ -77,9 +77,8 @@ poetry run python ai/build_kb.py
 
 ## 文档索引
 
-| 文档 | 用途 |
-|------|------|
-| `docs/00_总执行手册_Master_Plan.md` | 架构、里程碑、工程规范 |
-| `docs/01_技术协议与接口规范_Technical_Protocol.md` | 接口合同 |
-| `docs/09_功能模块划分与开发总览.md` | 7 个功能模块详细定义 |
-| `docs/10_任务管理表_飞书导入.md` | 80 条任务，可导入飞书 |
+| 文档 |
+|------|
+| `docs/00_总执行手册_Master_Plan.md`|
+| `docs/01_技术协议与接口规范_Technical_Protocol.md` | 
+| `docs/09_功能模块划分与开发总览.md` |
