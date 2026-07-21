@@ -48,3 +48,12 @@ access.log
 temp/
 tmp/
 *.tmp
+
+# 内部管理文档（本地保留，不上传 GitHub）
+docs/06_*.md
+docs/07_*.md
+docs/08_*.md
+docs/09_*.*
+docs/10_*.md
+docs/11_*.md
+docs/个人执行文档_Personal_Guides/
