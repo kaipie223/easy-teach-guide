@@ -18,14 +18,6 @@
 ├── docs/                            # 所有文档
 │   ├── 00_总执行手册_Master_Plan.md
 │   ├── 01_技术协议与接口规范_Technical_Protocol.md  ← 本文档
-│   ├── test-plan.md
-│   ├── test-cases.xlsx
-│   └── 个人执行文档_Personal_Guides/
-│       ├── 01_成员A_后端工程师.md
-│       ├── 02_成员B_前端工程师.md
-│       ├── 03_成员C_AI工程师_意图理解与RAG.md
-│       ├── 04_成员D_AI工程师_课件生成与多模态解析.md
-│       └── 05_成员E_PM_测试_数据.md
 │
 ├── backend/                         # 成员A 工作区
 │   ├── main.py                      # FastAPI 入口
